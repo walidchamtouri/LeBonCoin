@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_txt">16dp</dimen>
+    <dimen name="padding_top">9dp</dimen>
+    <dimen name="margin_min">4dp</dimen>
+
+    <dimen name="height_title">67dp</dimen>
+    <dimen name="text_view_margin">8dp</dimen>
+    <dimen name="height_cover_albums">30dp</dimen>
+
+    <integer name="albums_column">3</integer>
+    <integer name="photos_column">4</integer>
+
+    <string name="cover_ratio">1:1</string>
+
+</resources>
